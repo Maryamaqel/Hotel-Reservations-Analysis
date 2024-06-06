@@ -1,2 +1,2 @@
 # Data-Mining
-Analyze two datasets using data mining techniques for finding any patterns, forecasting and data visualization.
+Analyzing two datasets: a hotel reservations dataset and an Air passenger booking dataset and using data mining techniques for finding any patterns, forecasting and data visualization for better interpretation.
