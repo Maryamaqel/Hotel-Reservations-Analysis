@@ -6,7 +6,8 @@ Data Loading and Cleaning:
 Importing the dataset and handling missing values.
 Converting data types where necessary.
 Removing duplicates and irrelevant columns.
-Exploratory Data Analysis (EDA) for:
+
+# Exploratory Data Analysis (EDA) for:
 
 * Customer Types: Majority of bookings made by adults, indicating preference among adult travelers or couples.
 
@@ -27,4 +28,8 @@ Exploratory Data Analysis (EDA) for:
 * Outliers in Data: Significant outliers in lead times indicate segment of guests planning far in advance.
   
 ![Clustering](Outputs/clustering.jpg)
+
+# Contact
+For any questions or issues, please reach out to https://linktr.ee/maryam_aqel
+
 
