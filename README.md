@@ -1,13 +1,13 @@
 # Hotel reservation analysis
 This project involves analyzing a hotel reservation dataset to uncover insights and trends related to customer bookings. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of key metrics. The project is implemented in a Jupyter Notebook.
 
-Key Features
-Data Loading and Cleaning:
-Importing the dataset and handling missing values.
+# Key Features:
+
+Data Loading and Cleaning: Importing the dataset and handling missing values.
 Converting data types where necessary.
 Removing duplicates and irrelevant columns.
 
-# Exploratory Data Analysis (EDA) for:
+Exploratory Data Analysis (EDA) for:
 
 * Customer Types: Majority of bookings made by adults, indicating preference among adult travelers or couples.
 
