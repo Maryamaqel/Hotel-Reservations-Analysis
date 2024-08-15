@@ -18,7 +18,7 @@ Time series plots to visualize booking trends.
 Bar charts, pie charts, and histograms to show the distribution of various features.
 Heatmaps to analyze correlations.
 
-Customer Types: Majority of bookings made by adults, indicating preference among adult travelers or couples.
+* Customer Types: Majority of bookings made by adults, indicating preference among adult travelers or couples.
 
 * Cancellation Rates: Families with children exhibit slightly higher cancellation rate, possibly due to more variables involved.
 
