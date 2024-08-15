@@ -35,3 +35,6 @@ Heatmaps to analyze correlations.
 * Customer Similarities: Common preferences point to well-defined target market or guest profile.
 
 * Outliers in Data: Significant outliers in lead times indicate segment of guests planning far in advance.
+  
+![Clustering](Outputs/clustering.jpg)
+
